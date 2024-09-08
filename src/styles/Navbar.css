@@ -30,3 +30,8 @@ ul li:nth-child(5){
 ul li:nth-child(5):hover {
 cursor: pointer;
 }
+
+.menu-img{
+    width: 120%;
+    height: 3rem;
+}
